@@ -1,7 +1,7 @@
 import pyautogui as pg 
 import numpy as np
 import time
-
+# sudoku app 
 grid = []
 
 while True:
